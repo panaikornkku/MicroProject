@@ -1,0 +1,3 @@
+../Src/uart.c:14:6:UART2_TxString	16	static
+../Src/uart.c:21:6:UART2_Printf	16	static
+../Src/uart.c:29:6:UART2_GetCharNonBlocking	16	static

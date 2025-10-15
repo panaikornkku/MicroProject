@@ -1,0 +1,4 @@
+../Src/light.c:20:14:adc_to_voltage	1
+../Src/light.c:23:14:ldr_resistance	3
+../Src/light.c:28:14:resistance_to_lux	1
+../Src/light.c:34:7:Light_ReadLux	2

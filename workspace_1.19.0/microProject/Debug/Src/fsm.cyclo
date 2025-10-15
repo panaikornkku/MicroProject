@@ -1,0 +1,3 @@
+../Src/fsm.c:48:13:Pin_Clear	1
+../Src/fsm.c:54:13:NewPin_Clear	1
+../Src/fsm.c:61:6:FSM_Tick	37

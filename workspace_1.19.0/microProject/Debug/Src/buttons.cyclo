@@ -1,0 +1,4 @@
+../Src/buttons.c:19:6:Buttons_Init	1
+../Src/buttons.c:26:23:raw_down	2
+../Src/buttons.c:30:6:Buttons_Scan	4
+../Src/buttons.c:44:6:Buttons_GetEdge	3
